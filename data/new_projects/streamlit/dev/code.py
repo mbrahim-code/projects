@@ -9,7 +9,7 @@ from streamlit_echarts import st_echarts
 from streamlit_option_menu import option_menu
 
 
-# absolute paths
+# Absolute paths
 
 HOME_PAGE_PATH = "/mount/src/projects/data/new_projects/streamlit/dev/page_home.py"
 OVERVIEW_PAGE_PATH = "/mount/src/projects/data/new_projects/streamlit/dev/page_overview.py"
