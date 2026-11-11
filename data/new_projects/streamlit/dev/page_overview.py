@@ -1,4 +1,4 @@
-# dataset overview page
+# Dataset overview page
 
 import pandas as pd
 import streamlit as st
