@@ -4,8 +4,6 @@ import re
 import streamlit as st
 from streamlit_echarts import st_echarts
 
-# components
-
 
 HTML_PATH = "/mount/src/projects/data/new_projects/streamlit/dev/assets/html/components.html"
 
