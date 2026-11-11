@@ -1,4 +1,4 @@
-# Time-based sales analysis page
+# time-based sales analysis page
 
 import pandas as pd
 import streamlit as st
