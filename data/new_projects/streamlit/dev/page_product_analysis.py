@@ -1,4 +1,4 @@
-# product sales analysis page
+# Product sales analysis page
 
 import pandas as pd
 import streamlit as st
