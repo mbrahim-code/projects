@@ -1,4 +1,4 @@
-# geographical sales analysis page
+# Geographical sales analysis page
 
 import json
 import urllib.request
