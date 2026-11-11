@@ -1,4 +1,0 @@
-streamlit>=1.64.0
-pandas
-streamlit-echarts
-streamlit-option-menu
