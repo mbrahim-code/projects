@@ -1,4 +1,4 @@
-# Home page content
+# home page content
 
 import streamlit as st
 
